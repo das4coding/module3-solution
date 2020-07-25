@@ -50,7 +50,17 @@ h2
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+ul
+{
+  width: 100%;
+}
 
+li{
+  border: solid 2px black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 1.40em;
+  text-align: center;
+}
 #nav-list {
   margin-top: 10px;
   text-align: center;
