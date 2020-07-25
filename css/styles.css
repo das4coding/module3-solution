@@ -1,0 +1,77 @@
+#cont{
+  
+  background-color: gray;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 1.5em;
+  color:white;
+
+}
+#menu-head{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2
+{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.row{
+  padding: 30px;
+}
+
+
+
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  font-size: 1.90em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { /* Kosher cert */
+  color: #000;
+  text-transform: uppercase;
+  font-size: .8em;
+  margin-top: 15px;
+}
+.navbar-brand p span { /* Star-K */
+  vertical-align: middle;
+}
+
+#nav-list {
+  margin-top: 10px;
+  text-align: center;
+
+}
+hr
+{
+  width: 4em;
+}
+#nav-list a {
+  color: #000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
